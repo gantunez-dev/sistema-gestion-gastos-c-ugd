@@ -1,0 +1,10 @@
+# Archivos ejecutables y temporales de compilación
+*.exe
+*.o
+*.obj
+*.zip
+
+# Archivos de configuración de IDEs (Dev-C++, VS Code, etc.)
+*.layout
+*.win
+.vscode/
